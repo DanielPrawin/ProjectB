@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="10" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-05T18:33:44 IST" name="Suite" finished-at="2023-08-05T18:34:30 IST" duration-ms="45453">
+    <groups>
+    </groups>
+    <test started-at="2023-08-05T18:33:44 IST" name="Test" finished-at="2023-08-05T18:34:30 IST" duration-ms="45453">
+      <class name="com.obs.tests.CreateNewUserAccount_1">
+        <test-method is-config="true" signature="initialyeReport()[pri:0, instance:com.obs.tests.CreateNewUserAccount_1@4233e892]" started-at="2023-08-05T18:33:44 IST" name="initialyeReport" finished-at="2023-08-05T18:33:44 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialyeReport -->
+        <test-method is-config="true" signature="launch(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.obs.tests.CreateNewUserAccount_1@4233e892]" started-at="2023-08-05T18:33:44 IST" name="launch" finished-at="2023-08-05T18:33:47 IST" duration-ms="2607" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.obs.tests.CreateNewUserAccount_1.CreateNewUserAccount_1() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="CreateNewUserAccount_1()[pri:0, instance:com.obs.tests.CreateNewUserAccount_1@4233e892]" started-at="2023-08-05T18:33:47 IST" name="CreateNewUserAccount_1" finished-at="2023-08-05T18:33:50 IST" duration-ms="3117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewUserAccount_1 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:com.obs.tests.CreateNewUserAccount_1@4233e892]" started-at="2023-08-05T18:33:50 IST" name="closeBrowser" finished-at="2023-08-05T18:33:50 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CreateNewUserAccount_1 status=SUCCESS method=CreateNewUserAccount_1.CreateNewUserAccount_1()[pri:0, instance:com.obs.tests.CreateNewUserAccount_1@4233e892] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:com.obs.tests.CreateNewUserAccount_1@4233e892]" started-at="2023-08-05T18:34:30 IST" name="cleanup" finished-at="2023-08-05T18:34:30 IST" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- com.obs.tests.CreateNewUserAccount_1 -->
+      <class name="com.obs.tests.VerifyTotalAccounts_4">
+        <test-method is-config="true" signature="launch(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.obs.tests.VerifyTotalAccounts_4@54e22bdd]" started-at="2023-08-05T18:34:19 IST" name="launch" finished-at="2023-08-05T18:34:20 IST" duration-ms="1705" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.obs.tests.VerifyTotalAccounts_4.VerifyTotalAccounts_4() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="VerifyTotalAccounts_4()[pri:0, instance:com.obs.tests.VerifyTotalAccounts_4@54e22bdd]" started-at="2023-08-05T18:34:20 IST" name="VerifyTotalAccounts_4" finished-at="2023-08-05T18:34:30 IST" duration-ms="9286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTotalAccounts_4 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:com.obs.tests.VerifyTotalAccounts_4@54e22bdd]" started-at="2023-08-05T18:34:30 IST" name="closeBrowser" finished-at="2023-08-05T18:34:30 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyTotalAccounts_4 status=SUCCESS method=VerifyTotalAccounts_4.VerifyTotalAccounts_4()[pri:0, instance:com.obs.tests.VerifyTotalAccounts_4@54e22bdd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.obs.tests.VerifyTotalAccounts_4 -->
+      <class name="com.obs.tests.VerifyTotalAccountBalance_3">
+        <test-method is-config="true" signature="launch(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.obs.tests.VerifyTotalAccountBalance_3@2f4205be]" started-at="2023-08-05T18:34:04 IST" name="launch" finished-at="2023-08-05T18:34:06 IST" duration-ms="2329" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.obs.tests.VerifyTotalAccountBalance_3.VerifyTotalAccountBalance_3() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="VerifyTotalAccountBalance_3()[pri:0, instance:com.obs.tests.VerifyTotalAccountBalance_3@2f4205be]" started-at="2023-08-05T18:34:06 IST" name="VerifyTotalAccountBalance_3" finished-at="2023-08-05T18:34:19 IST" duration-ms="12502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTotalAccountBalance_3 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:com.obs.tests.VerifyTotalAccountBalance_3@2f4205be]" started-at="2023-08-05T18:34:19 IST" name="closeBrowser" finished-at="2023-08-05T18:34:19 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyTotalAccountBalance_3 status=SUCCESS method=VerifyTotalAccountBalance_3.VerifyTotalAccountBalance_3()[pri:0, instance:com.obs.tests.VerifyTotalAccountBalance_3@2f4205be] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.obs.tests.VerifyTotalAccountBalance_3 -->
+      <class name="com.obs.tests.CreateAndEditNewUserAccount_2">
+        <test-method is-config="true" signature="launch(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.obs.tests.CreateAndEditNewUserAccount_2@4c5474f5]" started-at="2023-08-05T18:33:50 IST" name="launch" finished-at="2023-08-05T18:33:52 IST" duration-ms="1612" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.obs.tests.CreateAndEditNewUserAccount_2.CreateAndEditNewUserAccount_2() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="CreateAndEditNewUserAccount_2()[pri:0, instance:com.obs.tests.CreateAndEditNewUserAccount_2@4c5474f5]" started-at="2023-08-05T18:33:52 IST" name="CreateAndEditNewUserAccount_2" finished-at="2023-08-05T18:34:04 IST" duration-ms="12250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAndEditNewUserAccount_2 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:com.obs.tests.CreateAndEditNewUserAccount_2@4c5474f5]" started-at="2023-08-05T18:34:04 IST" name="closeBrowser" finished-at="2023-08-05T18:34:04 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CreateAndEditNewUserAccount_2 status=SUCCESS method=CreateAndEditNewUserAccount_2.CreateAndEditNewUserAccount_2()[pri:0, instance:com.obs.tests.CreateAndEditNewUserAccount_2@4c5474f5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.obs.tests.CreateAndEditNewUserAccount_2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
